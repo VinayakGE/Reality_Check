@@ -31,6 +31,7 @@ Each audit follows the same structure:
 | [RC-005](claims/RC-005-tesla-cybercab-production-2027.md) | "We expect to be in volume production of Cybercab before 2027." — Elon Musk | Unresolved | 2026-06-23 | Terms are clear — but the claimant has revised every prior autonomous vehicle deadline, making the date itself the unreliable variable |
 | [RC-006](claims/RC-006-wework-profitability.md) | "WeWork will be cash-flow positive by 2020 and achieve profitability at scale" — Adam Neumann | Not Supported | 2026-06-23 | First resolved audit — and the template has no status for it; "Not Supported" doesn't exist in the original three options |
 | [RC-007](claims/RC-007-bitcoin-100k-2024.md) | "Bitcoin will hit $100,000 by the end of 2024" — Standard Chartered / Geoff Kendrick | Supported | 2026-06-23 | First Supported audit — prediction resolved; mechanism (ETF + halving vs. post-election macro) did not fully resolve with it |
+| [RC-008](claims/RC-008-office-centricity-over.md) | "Office centricity is over." — Tobi Lütke / Shopify | Partially Supported | 2026-06-23 | Third consecutive resolved audit to find the Status section insufficient — claim is directionally correct, quantitatively overstated |
 
 ---
 
@@ -61,3 +62,4 @@ Potential wound: A high-visibility claim that is precise, externally testable, a
 - [Unresolved](status/unresolved.md)
 - [Currently Unresolvable](status/currently-unresolvable.md)
 - [Not Supported](status/not-supported.md)
+- [Partially Supported](status/partially-supported.md)
