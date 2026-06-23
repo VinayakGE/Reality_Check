@@ -29,6 +29,7 @@ Each audit follows the same structure:
 | [RC-003](claims/RC-003-agi-before-2030.md) | "We will have AGI by 2030. Possibly sooner." — Sam Altman | Unresolved | 2026-06-23 | AGI is defined — but defined by the person making the claim, which makes it self-fulfilling rather than predictive |
 | [RC-004](claims/RC-004-india-500gw-renewable-2030.md) | "India will achieve 500 GW of non-fossil fuel energy capacity by 2030." — Narendra Modi | Unresolved | 2026-06-23 | First claim unresolved for evidentiary reasons, not definitional ones — the terms are clear, the data exists, the gap is real |
 | [RC-005](claims/RC-005-tesla-cybercab-production-2027.md) | "We expect to be in volume production of Cybercab before 2027." — Elon Musk | Unresolved | 2026-06-23 | Terms are clear — but the claimant has revised every prior autonomous vehicle deadline, making the date itself the unreliable variable |
+| [RC-006](claims/RC-006-wework-profitability.md) | "WeWork will be cash-flow positive by 2020 and achieve profitability at scale" — Adam Neumann | Not Supported | 2026-06-23 | First resolved audit — and the template has no status for it; "Not Supported" doesn't exist in the original three options |
 
 ---
 
@@ -58,3 +59,4 @@ Potential wound: A high-visibility claim that is precise, externally testable, a
 - [Supported](status/supported.md)
 - [Unresolved](status/unresolved.md)
 - [Currently Unresolvable](status/currently-unresolvable.md)
+- [Not Supported](status/not-supported.md)
