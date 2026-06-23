@@ -22,9 +22,10 @@ Each audit follows the same structure:
 
 ## Claims
 
-| # | Claim | Status | Date | Next Review |
-|---|-------|--------|------|-------------|
-| [RC-001](claims/RC-001-agents-replace-saas.md) | "Most software will be replaced by AI agents" — Sam Altman | Unresolved | 2026-06-23 | Q4 2026 earnings / first confirmed Fortune 500 SaaS cancellation |
+| # | Claim | Status | Date | Surprising Finding |
+|---|-------|--------|------|-------------------|
+| [RC-001](claims/RC-001-agents-replace-saas.md) | "Most software will be replaced by AI agents" — Sam Altman | Unresolved | 2026-06-23 | Claim assumes agents replace SaaS rather than the humans who use SaaS |
+| [RC-002](claims/RC-002-one-person-unicorn.md) | "A single person with AI can build a billion-dollar company alone" — Sam Altman | Unresolved | 2026-06-23 | "One person" and "company" are both undefined — the claim is currently unfalsifiable |
 
 ---
 
