@@ -108,4 +108,6 @@ Three observations have survived 15 audits of pressure:
 
 No compression has been earned. That is the correct state.
 
+**The repository has stronger evidence for recurring evaluation bottlenecks than for recurring claim structures.**
+
 Next checkpoint: RC-020, or earlier if a Watch B instance occurs with a new generating mechanism that warrants recording.
