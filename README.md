@@ -27,6 +27,28 @@ Each audit follows the same structure:
 | [RC-001](claims/RC-001-agents-replace-saas.md) | "Most software will be replaced by AI agents" — Sam Altman | Unresolved | 2026-06-23 | Claim assumes agents replace SaaS rather than the humans who use SaaS |
 | [RC-002](claims/RC-002-one-person-unicorn.md) | "A single person with AI can build a billion-dollar company alone" — Sam Altman | Unresolved | 2026-06-23 | "One person" and "company" are both undefined — the claim is currently unfalsifiable |
 | [RC-003](claims/RC-003-agi-before-2030.md) | "We will have AGI by 2030. Possibly sooner." — Sam Altman | Unresolved | 2026-06-23 | AGI is defined — but defined by the person making the claim, which makes it self-fulfilling rather than predictive |
+| [RC-004](claims/RC-004-india-500gw-renewable-2030.md) | "India will achieve 500 GW of non-fossil fuel energy capacity by 2030." — Narendra Modi | Unresolved | 2026-06-23 | First claim unresolved for evidentiary reasons, not definitional ones — the terms are clear, the data exists, the gap is real |
+
+---
+
+## Open Questions
+
+These are questions the audits themselves raised. They are not claims being tracked — they are observations about the auditing process, held open until evidence resolves them.
+
+**Open Question #001 — Are high-visibility claims systematically resistant to external falsification?**
+
+After three audits, each claim was found difficult for outside observers to verify — but through three different routes:
+
+| Audit | Mechanism |
+|-------|-----------|
+| RC-001 | Undefined relationship (*replace* — replace what?) |
+| RC-002 | Undefined entities (*one person*, *company* — counts how?) |
+| RC-003 | Self-defined success criteria (AGI declared by the claimant) |
+
+This is not a claim that founders avoid accountability. It is a narrower observation: high-visibility claims in this sample cannot easily be checked by an outside observer.
+
+Status: **Unresolved**
+Potential wound: A high-visibility claim that is precise, externally testable, and produces a clean audit. See RC-004.
 
 ---
 
