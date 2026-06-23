@@ -41,6 +41,7 @@ Each audit follows the same structure:
 | [RC-015](claims/RC-015-us-export-controls-china-ai.md) | "U.S. export controls will significantly slow China's AI development" — Jake Sullivan / Biden administration | Unresolved | 2026-06-23 | RC-015 checkpoint: zero structure repeats through fifteen audits; Watch B at six instances; first claim combining missing counterfactual and adversarial concealment simultaneously |
 | [RC-016](claims/RC-016-fusion-power-2030s.md) | "Commercial fusion power is achievable in the 2030s" — Bob Mumgaard / Commonwealth Fusion Systems | Unresolved | 2026-06-23 | Watch B seventh instance; domain transfer to energy confirmed; counterfactual unavailability reaches three instances across two cycles for the first time |
 | [RC-017](claims/RC-017-ubi-cash-transfers.md) | "Cash transfer pilots demonstrate that Universal Basic Income would reduce poverty without reducing work effort" — Michael Tubbs / Stockton SEED | Unresolved | 2026-06-23 | First audit where Watch B does not fire; counterfactual unavailability may split into two types (event occurred vs. event not yet run at scale) |
+| [RC-018](claims/RC-018-housing-mobility-opportunity.md) | "Housing vouchers enabling low-income families to move to high-opportunity neighborhoods would significantly improve children's long-run outcomes" — Raj Chetty / Opportunity Insights | Unresolved | 2026-06-23 | First Watch A structural repeat in 18 audits; Watch B still absent; Type B pattern holds (0/2); transferability bottleneck emerging as distinct from Watch B |
 
 ---
 
