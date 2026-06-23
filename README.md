@@ -28,6 +28,7 @@ Each audit follows the same structure:
 | [RC-002](claims/RC-002-one-person-unicorn.md) | "A single person with AI can build a billion-dollar company alone" — Sam Altman | Unresolved | 2026-06-23 | "One person" and "company" are both undefined — the claim is currently unfalsifiable |
 | [RC-003](claims/RC-003-agi-before-2030.md) | "We will have AGI by 2030. Possibly sooner." — Sam Altman | Unresolved | 2026-06-23 | AGI is defined — but defined by the person making the claim, which makes it self-fulfilling rather than predictive |
 | [RC-004](claims/RC-004-india-500gw-renewable-2030.md) | "India will achieve 500 GW of non-fossil fuel energy capacity by 2030." — Narendra Modi | Unresolved | 2026-06-23 | First claim unresolved for evidentiary reasons, not definitional ones — the terms are clear, the data exists, the gap is real |
+| [RC-005](claims/RC-005-tesla-cybercab-production-2027.md) | "We expect to be in volume production of Cybercab before 2027." — Elon Musk | Unresolved | 2026-06-23 | Terms are clear — but the claimant has revised every prior autonomous vehicle deadline, making the date itself the unreliable variable |
 
 ---
 

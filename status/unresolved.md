@@ -8,3 +8,4 @@ Claims where evidence is mixed, incomplete, or too early to call.
 | [RC-002](../claims/RC-002-one-person-unicorn.md) | "A single person with AI can build a billion-dollar company alone" — Sam Altman | 2026-06-23 | First verified one-person company at $100M ARR or $500M valuation |
 | [RC-003](../claims/RC-003-agi-before-2030.md) | "We will have AGI by 2030. Possibly sooner." — Sam Altman | 2026-06-23 | Any formal AGI declaration by a major lab, or end of 2027 |
 | [RC-004](../claims/RC-004-india-500gw-renewable-2030.md) | "India will achieve 500 GW of non-fossil fuel energy capacity by 2030." — Narendra Modi | 2026-06-23 | MNRE annual capacity report Q1 2027; or IEA World Energy Outlook 2026 |
+| [RC-005](../claims/RC-005-tesla-cybercab-production-2027.md) | "We expect to be in volume production of Cybercab before 2027." — Elon Musk | 2026-06-23 | Tesla Q3 2026 earnings call; or any Cybercab production announcement with unit numbers |
