@@ -37,6 +37,7 @@ Each audit follows the same structure:
 | [RC-011](claims/RC-011-ai-job-automation-25pct.md) | "Generative AI could automate up to 25% of all work tasks globally" — Goldman Sachs | Unresolved | 2026-06-23 | No clean structural repeat — capability estimate without deadline; contested measurement methodology is a new variant not in the prior ten |
 | [RC-012](claims/RC-012-haidt-social-media-mental-health.md) | "Smartphones are the primary cause of the teen mental health crisis" — Jonathan Haidt | Unresolved | 2026-06-23 | Watch B first confirmed: outcome-visible / cause-uncertain bottleneck appeared in RC-007, RC-010, and now RC-012 across different structures |
 | [RC-013](claims/RC-013-ultra-processed-food-obesity.md) | "Ultra-processed foods are the primary driver of obesity and chronic disease" — Kevin Hall / Chris van Tulleken | Unresolved | 2026-06-23 | Watch B: bottleneck type recurs (5th instance); why-it's-present diverges again — RCT proves contribution, not primacy (methodological scope, not disagreement) |
+| [RC-014](claims/RC-014-china-taiwan-2027.md) | "The threat from China to Taiwan is manifest during this decade" — Admiral Philip Davidson | Unresolved | 2026-06-23 | First departure from Watch B family — adversarial concealment introduces a sixth bottleneck type; first claim whose deadline falls within the repository's active life |
 
 ---
 
