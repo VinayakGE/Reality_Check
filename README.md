@@ -40,6 +40,7 @@ Each audit follows the same structure:
 | [RC-014](claims/RC-014-china-taiwan-2027.md) | "The threat from China to Taiwan is manifest during this decade" — Admiral Philip Davidson | Unresolved | 2026-06-23 | First departure from Watch B family — adversarial concealment introduces a sixth bottleneck type; first claim whose deadline falls within the repository's active life |
 | [RC-015](claims/RC-015-us-export-controls-china-ai.md) | "U.S. export controls will significantly slow China's AI development" — Jake Sullivan / Biden administration | Unresolved | 2026-06-23 | RC-015 checkpoint: zero structure repeats through fifteen audits; Watch B at six instances; first claim combining missing counterfactual and adversarial concealment simultaneously |
 | [RC-016](claims/RC-016-fusion-power-2030s.md) | "Commercial fusion power is achievable in the 2030s" — Bob Mumgaard / Commonwealth Fusion Systems | Unresolved | 2026-06-23 | Watch B seventh instance; domain transfer to energy confirmed; counterfactual unavailability reaches three instances across two cycles for the first time |
+| [RC-017](claims/RC-017-ubi-cash-transfers.md) | "Cash transfer pilots demonstrate that Universal Basic Income would reduce poverty without reducing work effort" — Michael Tubbs / Stockton SEED | Unresolved | 2026-06-23 | First audit where Watch B does not fire; counterfactual unavailability may split into two types (event occurred vs. event not yet run at scale) |
 
 ---
 
