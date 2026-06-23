@@ -39,6 +39,7 @@ Each audit follows the same structure:
 | [RC-013](claims/RC-013-ultra-processed-food-obesity.md) | "Ultra-processed foods are the primary driver of obesity and chronic disease" — Kevin Hall / Chris van Tulleken | Unresolved | 2026-06-23 | Watch B: bottleneck type recurs (5th instance); why-it's-present diverges again — RCT proves contribution, not primacy (methodological scope, not disagreement) |
 | [RC-014](claims/RC-014-china-taiwan-2027.md) | "The threat from China to Taiwan is manifest during this decade" — Admiral Philip Davidson | Unresolved | 2026-06-23 | First departure from Watch B family — adversarial concealment introduces a sixth bottleneck type; first claim whose deadline falls within the repository's active life |
 | [RC-015](claims/RC-015-us-export-controls-china-ai.md) | "U.S. export controls will significantly slow China's AI development" — Jake Sullivan / Biden administration | Unresolved | 2026-06-23 | RC-015 checkpoint: zero structure repeats through fifteen audits; Watch B at six instances; first claim combining missing counterfactual and adversarial concealment simultaneously |
+| [RC-016](claims/RC-016-fusion-power-2030s.md) | "Commercial fusion power is achievable in the 2030s" — Bob Mumgaard / Commonwealth Fusion Systems | Unresolved | 2026-06-23 | Watch B seventh instance; domain transfer to energy confirmed; counterfactual unavailability reaches three instances across two cycles for the first time |
 
 ---
 
