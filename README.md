@@ -34,6 +34,7 @@ Each audit follows the same structure:
 | [RC-008](claims/RC-008-office-centricity-over.md) | "Office centricity is over." — Tobi Lütke / Shopify | Partially Supported | 2026-06-23 | Third consecutive resolved audit to find the Status section insufficient — claim is directionally correct, quantitatively overstated |
 | [RC-009](claims/RC-009-china-lost-decade.md) | "China faces a Japan-style lost decade of stagnation" — Michael Pettis | Unresolved | 2026-06-23 | First audit where prediction/mechanism split was visible at entry, not discovered at resolution |
 | [RC-010](claims/RC-010-cambridge-analytica-2016.md) | "CA's psychographic targeting caused Trump to win in 2016" — Alexander Nix / Cambridge Analytica | Currently Unresolvable | 2026-06-23 | First use of "Currently Unresolvable" — but for a different reason than the category implies: permanently indeterminate, not awaiting future evidence |
+| [RC-011](claims/RC-011-ai-job-automation-25pct.md) | "Generative AI could automate up to 25% of all work tasks globally" — Goldman Sachs | Unresolved | 2026-06-23 | No clean structural repeat — capability estimate without deadline; contested measurement methodology is a new variant not in the prior ten |
 
 ---
 
