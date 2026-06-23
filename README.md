@@ -38,12 +38,22 @@ Each audit follows the same structure:
 | [RC-012](claims/RC-012-haidt-social-media-mental-health.md) | "Smartphones are the primary cause of the teen mental health crisis" — Jonathan Haidt | Unresolved | 2026-06-23 | Watch B first confirmed: outcome-visible / cause-uncertain bottleneck appeared in RC-007, RC-010, and now RC-012 across different structures |
 | [RC-013](claims/RC-013-ultra-processed-food-obesity.md) | "Ultra-processed foods are the primary driver of obesity and chronic disease" — Kevin Hall / Chris van Tulleken | Unresolved | 2026-06-23 | Watch B: bottleneck type recurs (5th instance); why-it's-present diverges again — RCT proves contribution, not primacy (methodological scope, not disagreement) |
 | [RC-014](claims/RC-014-china-taiwan-2027.md) | "The threat from China to Taiwan is manifest during this decade" — Admiral Philip Davidson | Unresolved | 2026-06-23 | First departure from Watch B family — adversarial concealment introduces a sixth bottleneck type; first claim whose deadline falls within the repository's active life |
+| [RC-015](claims/RC-015-us-export-controls-china-ai.md) | "U.S. export controls will significantly slow China's AI development" — Jake Sullivan / Biden administration | Unresolved | 2026-06-23 | RC-015 checkpoint: zero structure repeats through fifteen audits; Watch B at six instances; first claim combining missing counterfactual and adversarial concealment simultaneously |
 
 ---
 
 ## Open Questions
 
 These are questions the audits themselves raised. They are not claims being tracked — they are observations about the auditing process, held open until evidence resolves them.
+
+**Open Question #002 — How should Reality Check represent claims that mature while under observation?**
+
+The current template treats audits as static documents: claim enters, evidence is assessed, status is assigned. RC-014 and RC-015 introduced a different lifecycle: claims with resolution deadlines or accumulating intermediate evidence that will arrive while the repository is still active. This is distinct from retrospective audits (RC-006 through RC-010), where outcomes were already known. The template currently has no mechanism for representing the progression from prediction → evidence accumulation → resolution. Update-in-place vs. new audit is an open question.
+
+Status: **Unresolved**
+Potential wound: RC-014 resolves (or fails to resolve) by December 2027, generating the first test case.
+
+---
 
 **Open Question #001 — Are high-visibility claims systematically resistant to external falsification?**
 
