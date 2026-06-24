@@ -1,9 +1,9 @@
 # RSQ-002: The Domain-Maturity Gradient — Candidate Mechanism
 
 **Date:** 2026-06-24
-**Last updated:** 2026-06-24 (post-RC-043 assessment added; Wound 6 partial result recorded; Watch B optimum sub-type identified; CMech-001 scope refinement required)
+**Last updated:** 2026-06-24 (post-RC-044 assessment added; discriminant result recorded; Interpretation B supported; RC-043/RC-044 pair as first two-observation pattern for Theoretical optimum under High DAM)
 **Type:** Repository Structure Question — Mechanism Specification
-**Status:** Candidate mechanism in mechanism-decomposition phase; functional distinction between NEA and DAM confirmed with complication; Wound 6 partial; CMech-001 scope refinement required
+**Status:** Candidate mechanism in mechanism scope delimitation phase; Interpretation B supported at two observations; refined scope statement candidate; DAM scope boundary survives explicit engagement test
 
 This document does for the domain-maturity gradient what RSQ-001 did for promotion logic: takes a confirmed pattern and asks what process generates it. The mechanism is a candidate, not a promoted object. The wound conditions in this document are pre-registered before RC-041 is selected.
 
@@ -365,3 +365,71 @@ The transition from decomposition to scope delimitation is significant. In decom
 2. **High DAM domain where TMREL is uncontested:** Tests whether the optimum-level Watch B in RC-043 is domain-specific or a general feature of all High DAM domains with a specified policy threshold. If such a domain shows Methodological Watch B without the optimum sub-type, the scope refinement's first condition (TMREL specification creates optimum-level Watch B) needs further specification.
 
 3. **Low DAM + optimum-level contested domain:** If such a domain shows Theoretical (existence) Watch B but not Theoretical (optimum) Watch B, it would confirm that optimum-level disputes require the existence question to be settled first — i.e., optimum-level Watch B is a downstream product of existence-level Watch B resolution, not an independent category.
+
+---
+
+## RC-044 Assessment — Discriminant Result and Scope Boundary Survives (added 2026-06-24)
+
+RC-044 (Alcohol Consumption and Mortality) was designed as the discriminant for RC-043's Wound 6 partial result. The specific question: does Theoretical (optimum) Watch B persist despite GBD's explicit TMREL=0 defense?
+
+**Watch B character observed:** Theoretical (optimum) + Methodological simultaneously — identical to RC-043.
+
+**Discriminant function assessment:**
+
+The GBD 2018 analysis (Griswold et al., *The Lancet*) explicitly:
+1. Modeled sick-quitter contamination in the abstainer reference category
+2. Corrected for this contamination
+3. Concluded that after correction, no protective effect at any consumption level is detectable
+4. Set TMREL=0 as the substantive biological conclusion, not merely as a conservative methodological default
+
+Despite this, Theoretical (optimum) Watch B persisted among researchers who dispute not GBD's methodology but its biological premise — specifically, that the HDL-protective mechanism is real and that MR evidence is insufficient to eliminate it.
+
+**Interpretation B is supported:** GBD explicitly engaged the optimum question and took a defended position. Theoretical (optimum) Watch B persisted anyway among researchers who dispute the biological premises of that position. The scope boundary is not an artifact of incomplete DAM engagement — it reflects that DAM can formalize a position on the optimum question but cannot resolve the dispute when the disagreement is about the underlying biology, not about whether the methodology correctly implements agreed premises.
+
+**Interpretation A is partially supported:** GBD's explicit engagement did transform Watch B for the subset of researchers who accepted DAM's sick-quitter correction as valid — for them, the Watch B became Methodological (GBD addressed the confounding; residual J-curve proponents are implementing the correction incorrectly). This confirms that explicit DAM engagement does affect Watch B character for part of the research community.
+
+**Net result:** The scope boundary is real but its location is more precise than the RC-043 reading suggested. DAM cannot suppress Theoretical (optimum) Watch B when the dispute is about the *biological premises* generating the optimum. DAM can transform Theoretical (optimum) Watch B into Methodological Watch B for the subset of researchers whose dispute is about *implementation of agreed premises*. This explains the persistent co-occurrence of both forms in RC-043 and RC-044 simultaneously.
+
+### Watch B Type Table (updated through RC-044)
+
+| Domain | Composite | NEA | DAM | Watch B Character |
+|---|---|---|---|---|
+| RC-035 Industrial Policy | Low | Low | Low | Theoretical (existence) |
+| RC-037 Lead-Crime | Intermediate | Intermediate | Low | Theoretical (existence) |
+| RC-038 Monetary Policy | Low | Low | Low | Theoretical (existence) |
+| RC-040 Minimum Wage | Intermediate | High | Intermediate | Directional |
+| RC-042 Incarceration | Low | High | Low | Theoretical (existence) |
+| RC-041 Air Pollution | Intermediate | Intermediate | High | Methodological |
+| RC-043 Dietary Sodium | Intermediate | Intermediate (lean Low) | High | Theoretical (optimum) + Methodological |
+| RC-044 Alcohol | Intermediate | Intermediate (lean Low) | High | Theoretical (optimum) + Methodological |
+| RC-036 Climate Attribution | High | High | High | Minimal |
+| RC-039 Vitamin A | High | High | High | Minimal |
+
+RC-043 and RC-044 now form a two-observation pair: identical criterion profiles (1 High DAM + 3 Intermediate, NEA lean Low) and identical Watch B character (Theoretical optimum + Methodological simultaneously). This is the first two-observation pattern for a specific Watch B sub-type under High DAM. Anti-compression: two instances, not a promoted pattern. But the pattern is structurally visible and the next observation carries more weight.
+
+### Refined Scope Statement (candidate — two observations)
+
+> DAM resolves Watch B about causal existence by encoding the positive answer institutionally. DAM can take a formal position on the optimum question (TMREL specification, sick-quitter correction, TMREL defense). DAM transforms Theoretical (optimum) Watch B into Methodological Watch B for researchers whose dispute is about whether DAM's methodology correctly implements agreed biological premises. DAM cannot suppress Theoretical (optimum) Watch B among researchers who dispute the biological premises that generate DAM's optimum position — their Watch B is rooted in a biological claim that no attribution methodology can resolve by formalizing a different biological claim.
+
+**Status:** Candidate. Two observations. Anti-compression applies.
+
+### Phase Update — Mechanism Scope Delimitation Deepens
+
+The transition from mechanism-decomposition to mechanism scope delimitation is now two audits deep. The questions have become increasingly precise:
+
+| Stage | Question |
+|---|---|
+| RC-041 | Does DAM transform Watch B differently than NEA? |
+| RC-042 | Does NEA alone transform Watch B without DAM? |
+| RC-043 | Can High DAM coexist with Theoretical Watch B? |
+| RC-044 | Can DAM's explicit engagement with the optimum question suppress Theoretical (optimum) Watch B? |
+
+Each question is a refinement of the previous one, not a repetition. The mechanism is becoming more precisely bounded through this sequence. What began as "causal-identification capacity determines Watch B" has resolved into a more specific claim about what different components of that capacity do and do not accomplish.
+
+**Next highest-value test options (revised post-RC-044):**
+
+1. **High DAM + uncontested TMREL domain:** If Theoretical (optimum) Watch B is absent in a High DAM domain where the policy threshold is not disputed (e.g., blood pressure targets in antihypertensive treatment, where guidelines are largely accepted and the dispute is magnitude, not direction), this would confirm that the Theoretical (optimum) sub-type requires an active biological-premises dispute, not merely the presence of a TMREL.
+
+2. **High DAM + existence-level resolution + accepted optimum:** A domain that has passed through both Watch B stages (existence resolved, optimum settled) into pure APG would be the first case showing that Theoretical (optimum) Watch B can be resolved — it is not a permanent feature of High DAM domains. This would show the endpoint of the trajectory.
+
+3. **Low DAM + contested optimum:** Would clarify whether Theoretical (optimum) Watch B requires existence-level resolution as a precondition, or whether it can appear directly without the existence-level phase being completed first.
