@@ -1,9 +1,9 @@
 # RSQ-002: The Domain-Maturity Gradient — Candidate Mechanism
 
 **Date:** 2026-06-24
-**Last updated:** 2026-06-24 (post-RC-042 assessment added; CMech-001 candidate revision recorded)
+**Last updated:** 2026-06-24 (post-RC-043 assessment added; Wound 6 partial result recorded; Watch B optimum sub-type identified; CMech-001 scope refinement required)
 **Type:** Repository Structure Question — Mechanism Specification
-**Status:** Candidate mechanism in mechanism-decomposition phase; functional distinction between NEA and DAM identified as candidate revision; revised wound conditions pre-registered
+**Status:** Candidate mechanism in mechanism-decomposition phase; functional distinction between NEA and DAM confirmed with complication; Wound 6 partial; CMech-001 scope refinement required
 
 This document does for the domain-maturity gradient what RSQ-001 did for promotion logic: takes a confirmed pattern and asks what process generates it. The mechanism is a candidate, not a promoted object. The wound conditions in this document are pre-registered before RC-041 is selected.
 
@@ -284,3 +284,84 @@ This is a more informative frontier than gradient replication. The gradient regu
 **Next highest-value test:** A domain where High DAM and Low NEA co-exist — the reverse of RC-042. If such a domain shows Methodological Watch B (as the revised CMech-001 predicts), the functional distinction gains a third supporting observation. If it shows Theoretical Watch B, DAM alone is insufficient without the pathway-identification NEA provides, and the revised CMech-001 requires further revision.
 
 **Candidate:** Epidemiological causal attribution for dietary factors (e.g., saturated fat and cardiovascular disease, or salt and hypertension) — domains where formal burden estimation methods (DAM = High, similar to GBD) exist but natural experiments are scarce and mostly of poor quality (NEA = Low to Intermediate).
+
+---
+
+## RC-043 Assessment — Wound 6 Partial Result and CMech-001 Scope Complication (added 2026-06-24)
+
+RC-043 (Dietary Sodium and Cardiovascular Mortality) was selected as the Wound 6 test: does High DAM coexist with Theoretical Watch B? The result was more complex than a binary wound or confirmation.
+
+**Watch B character observed:** Theoretical (optimum sub-type) AND Methodological simultaneously.
+
+The PURE study (Mente et al. 2016, NEJM; 103,570 participants, 18 countries, multiple 24-hour urine collections) found a J-shaped association with cardiovascular mortality, with the lowest risk in the 3–6g/day sodium range — above the WHO guideline of <2g/day. This generates two simultaneous Watch B forms:
+
+- **Watch B Theoretical (optimum):** The net causal direction of sodium reduction from 3.5g/day (current Western intake) to <2g/day is genuinely contested. RAAS activation at low sodium provides a competing mechanistic pathway. Whether the WHO guideline places populations in a beneficial or harmful range is a live theoretical dispute.
+- **Watch B Methodological:** PURE critics argue the J-curve reflects measurement error and reverse causation, not genuine biology. This is a confounding concern within an accepted causal framework (sodium reduction is beneficial; the J-curve is an artifact).
+
+Both forms are live. The field has not resolved which account of PURE is correct.
+
+**Wound 6 assessment — Partial.**
+
+Wound 6 requires: High DAM + Theoretical Watch B. Theoretical Watch B is present. But the Theoretical Watch B is specifically about the optimal threshold level, not about whether sodium causes cardiovascular harm at any level. The GBD comparative risk assessment and WHO formal guidelines appear to have suppressed the existence-level Theoretical dispute while leaving the optimum-level dispute open — and potentially sharpening it by specifying a precise threshold that PURE then challenged at that exact level.
+
+Wound 6 is partially inflicted rather than cleanly inflicted or avoided.
+
+### Watch B Type Table (updated through RC-043)
+
+| Domain | Composite | NEA | DAM | Watch B Character |
+|---|---|---|---|---|
+| RC-035 Industrial Policy | Low | Low | Low | Theoretical (existence) |
+| RC-037 Lead-Crime | Intermediate | Intermediate | Low | Theoretical (existence) |
+| RC-038 Monetary Policy | Low | Low | Low | Theoretical (existence) |
+| RC-040 Minimum Wage | Intermediate | High | Intermediate | Directional |
+| RC-042 Incarceration | Low | High | Low | Theoretical (existence) |
+| RC-041 Air Pollution | Intermediate | Intermediate | High | Methodological |
+| RC-043 Dietary Sodium | Intermediate | Intermediate (lean Low) | High | Theoretical (optimum) + Methodological |
+| RC-036 Climate Attribution | High | High | High | Minimal |
+| RC-039 Vitamin A | High | High | High | Minimal |
+
+RC-043 introduces a Watch B sub-type not previously present in the table: **Theoretical (optimum)**. The sub-type is distinct from Theoretical (existence): it accepts that the causal mechanism exists at some level but disputes whether the policy-relevant intervention is in the direction of benefit or harm at the specified dose.
+
+**Status:** One instance. Anti-compression applies. The sub-type is a candidate distinction, not a promoted taxonomy entry.
+
+---
+
+### CMech-001 Scope Refinement Required
+
+The partial Wound 6 result forces a scope qualification on the revised CMech-001 candidate.
+
+**Revised CMech-001 (before RC-043):** DAM transforms Watch B by formally integrating competing pathways. High DAM should suppress Theoretical Watch B because the attribution methodology accounts for competing mechanisms and produces a net attribution.
+
+**RC-043 complication:** High DAM (GBD comparative risk assessment) suppressed the existence-level Theoretical dispute (is sodium harmful at any level?) but did not suppress the optimum-level Theoretical dispute (is sodium reduction from 3.5g to <2g/day net beneficial?). DAM specifies the attribution methodology for computing the burden given a TMREL; it does not resolve where the TMREL belongs.
+
+**Proposed scope refinement (candidate — one observation):**
+
+> DAM resolves the *existence question*: Does X cause harm at some level? A named attribution methodology that produces quantitative burden estimates presupposes a positive answer and encodes it in institutional form (GBD, IARC classification). This suppresses existence-level Theoretical Watch B.
+>
+> DAM does not resolve the *optimum question*: What is the best level of X? Attribution methodologies require a TMREL (theoretical minimum risk exposure level) as an input; they do not derive the TMREL from first principles. The optimum-level question — where to set the policy threshold — generates its own Theoretical Watch B that DAM does not address even when it resolves the existence question.
+
+**Status of the refinement:** Candidate. One observation (RC-043). Anti-compression applies. A second domain with High DAM + Theoretical (optimum) Watch B would constitute the Watch B Transformation Hypothesis's first complication with replication.
+
+**What would falsify the refinement:** A domain with High DAM where the optimum-level Theoretical Watch B is also absent — the TMREL or policy threshold is not contested despite active natural experiments or conflicting observational evidence at low exposure levels. This would suggest that something besides DAM scope explains the RC-043 result.
+
+---
+
+### Phase Update
+
+RSQ-002 has entered a new sub-phase: **mechanism scope delimitation**. The questions have shifted again:
+
+| Sub-phase | Question |
+|---|---|
+| Mechanism-discovery (before RC-041) | Does a mechanism exist? What is CMech-001? |
+| Mechanism-decomposition (RC-041–RC-042) | Which criteria carry the explanatory weight? NEA vs. DAM? |
+| Mechanism scope delimitation (RC-043 onwards) | What questions does the mechanism actually answer? What is outside its scope? |
+
+The transition from decomposition to scope delimitation is significant. In decomposition, we learned that DAM and NEA do different things. In scope delimitation, we are learning that DAM itself has bounded scope — it resolves some Watch B forms (existence-level) and not others (optimum-level). This is a more nuanced finding than Wound 6 either inflicted or avoided; it suggests the mechanism is real but partial.
+
+**Next highest-value test options:**
+
+1. **Second High DAM + optimum-level contested domain:** Confirms or disconfirms the scope refinement's generalizability. Candidate: saturated fat and cardiovascular disease (High DAM via GBD; optimum intake contested; existence-level dispute partially suppressed but dietary guidelines at saturated fat thresholds contested).
+
+2. **High DAM domain where TMREL is uncontested:** Tests whether the optimum-level Watch B in RC-043 is domain-specific or a general feature of all High DAM domains with a specified policy threshold. If such a domain shows Methodological Watch B without the optimum sub-type, the scope refinement's first condition (TMREL specification creates optimum-level Watch B) needs further specification.
+
+3. **Low DAM + optimum-level contested domain:** If such a domain shows Theoretical (existence) Watch B but not Theoretical (optimum) Watch B, it would confirm that optimum-level disputes require the existence question to be settled first — i.e., optimum-level Watch B is a downstream product of existence-level Watch B resolution, not an independent category.
