@@ -1,8 +1,9 @@
 # RSQ-002: The Domain-Maturity Gradient — Candidate Mechanism
 
 **Date:** 2026-06-24
+**Last updated:** 2026-06-24 (post-RC-041 assessment added)
 **Type:** Repository Structure Question — Mechanism Specification
-**Status:** Candidate mechanism under development; wound conditions pre-registered; no audits selected yet
+**Status:** Candidate mechanism under development; RC-041 produced first discriminating observation; Watch B Transformation Hypothesis added as candidate refinement (1 instance)
 
 This document does for the domain-maturity gradient what RSQ-001 did for promotion logic: takes a confirmed pattern and asks what process generates it. The mechanism is a candidate, not a promoted object. The wound conditions in this document are pre-registered before RC-041 is selected.
 
@@ -145,6 +146,59 @@ Until such tests are run, CMech-001 should be treated as a candidate with high p
 
 ## RSQ-002 Status
 
-RSQ-002 is open. The candidate mechanism is committed. Wound conditions are pre-registered. RC-041 has not yet been selected.
+RSQ-002 is open. The candidate mechanism is committed. Wound conditions are pre-registered.
 
-Unlike RSQ-001 (which had a designated test case — the APG promotion decision — built into its resolution path), RSQ-002's test cases must be designed from the differential predictions. The resolution path requires audit selection that differs from the selection logic used in Cycles 5 and 6.
+---
+
+## RC-041 Assessment — First Discriminating Observation (added 2026-06-24)
+
+RC-041 (Air Pollution Mortality) produced the first CMech-001 differential observation — a result that the composite-score regularity alone did not predict.
+
+**Level 1 (composite regularity):** Confirmed. Intermediate maturity → APG primary. Matches RC-037 and RC-040.
+
+**Level 2 (CMech-001 differential):** Partially confirmed, with a stronger result than predicted. Watch B did not merely become weaker — it changed form.
+
+### Watch B Type Table (as of RC-041)
+
+| Domain | Composite Maturity | DAM Score | Watch B Character |
+|---|---|---|---|
+| RC-035 Industrial Policy | Low | Low | Theoretical — competing causal explanations (markets vs. state) |
+| RC-037 Lead-Crime | Intermediate | Low | Theoretical — competing complete mechanisms (abortion, policing) |
+| RC-038 Monetary Policy | Low | Low | Theoretical — competing causal structures (fiscal theory, oil prices) |
+| RC-040 Minimum Wage | Intermediate | Intermediate | Directional — research programs dispute sign of effect |
+| RC-041 Air Pollution | Intermediate | High | Methodological — confounding concern; no competing causal theory |
+| RC-036 Climate Attribution | High | High | Minimal — residual only |
+| RC-039 Vitamin A | High | High | Minimal — DEVTA vs. Cochrane is precision dispute, not causal-role dispute |
+
+The table reveals a pattern: Watch B character tracks DAM score more than composite maturity classification. Low DAM → theoretical Watch B. Intermediate DAM → directional Watch B. High DAM → methodological Watch B or absent.
+
+### The Watch B Transformation Hypothesis (candidate refinement — 1 observation)
+
+RC-041 suggests CMech-001 may need refinement. The original mechanism claim was:
+
+> As causal-identification capacity increases, Watch B recedes.
+
+The RC-041 observation suggests a stronger version:
+
+> As causal-identification capacity increases — specifically DAM — Watch B does not merely recede. It transforms. The content of the dispute changes from "did X cause Y?" (theoretical) to "does Y correlate with confounders?" (methodological).
+
+This is a candidate refinement, not a new promoted object. It has one supporting observation (RC-041) and is vulnerable to alternative explanations:
+- Air pollution may have unusually clear biological mechanisms that suppress theoretical Watch B independently of DAM
+- The IARC Group 1 classification process may be confounded with other features of the domain that suppress theoretical Watch B
+
+**Status:** Candidate refinement. One instance. Anti-compression constraint applies.
+
+**Activation condition for strengthening:** A domain with High NEA but Low DAM that shows theoretical Watch B — demonstrating that natural experiments alone do not transform Watch B type without DAM certification. This would confirm that DAM specifically drives the transformation, not NEA.
+
+### Prediction 2 Update
+
+CMech-001's Prediction 2 (criteria are non-equivalent) is now partially tested. The hypothesis was that DAM and SRC suppress Watch B independently of NEA. RC-041 provided one observation consistent with this.
+
+The next test: a domain with High NEA and Low DAM. If Watch B remains theoretical in that domain despite strong natural experiment evidence, DAM (not NEA) is confirmed as the Watch B-transformation driver. If Watch B is methodological (as in RC-041) despite Low DAM, then NEA is sufficient for the transformation and CMech-001's Prediction 2 fails.
+
+**RC-042 selection criterion:** High NEA + Low DAM domain. Specific candidates:
+- **Incarceration and crime reduction:** Strong natural experiment literature (Levitt 1996 prison litigation IV, Italian pardons, California realignment, mandatory sentencing variation). No named incarceration attribution methodology. DAM = Low.
+- **Immigration and labor markets:** Mariel boatlift (Card 1990), EU Eastern enlargement natural experiments, refugee resettlement lotteries, E-Verify variation. Standard econometrics borrowed; no named immigration-attribution methodology. DAM = Low.
+- **Returns to education:** Compulsory schooling natural experiments (Angrist-Krueger), school construction RDs, Vietnam draft lottery. Econometric methods well-established but not domain-specific named attribution toolkit. DAM = Intermediate (borderline).
+
+Incarceration is the cleanest High NEA + Low DAM candidate. The Watch B in that domain is expected to be theoretical (does marginal incarceration reduce crime or is it criminogenic at current levels?) — which is what the mechanism test requires.
