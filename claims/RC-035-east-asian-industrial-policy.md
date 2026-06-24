@@ -150,7 +150,15 @@ There is a secondary APG dimension: if causal presence is accepted, contribution
 
 ## Open Questions
 
-**OQ-Regional:** Does the Watch B / APG relationship observed here — where APG is a sub-dispute within a Watch B frame — constitute a new structural variant, or is it covered by the existing boundary specification between the two objects? In RC-023 and RC-028, Watch B and APG appeared as distinct bottlenecks applied to different aspects of the same audit. Here they appear as nested (APG conditional on Watch B being resolved).
+**OQ-Regional: RESOLVED**
+
+Resolution mechanism: definitional clarification, not empirical accumulation.
+
+The APG definition contains an embedded activation condition: "the credited cause is accepted as a genuine contributor." When Watch B and APG both address the same causal question, APG's activation is logically downstream of Watch B resolution — not because this is a new structural variant, but because the precondition in the APG definition makes it so. RC-035 made this visible; it did not discover it empirically.
+
+The apparent tension with RC-023 and RC-028 (where Watch B and APG appeared as parallel rather than sequential) is resolved by specifying the unit of analysis: the causal question, not the claim. Different causal questions within the same claim can independently be Watch B or APG (parallel). The same causal question cannot simultaneously be both — Watch B must resolve first (sequential).
+
+Full specification in [status/attribution-precision-gap.md](../status/attribution-precision-gap.md) under "Relationship to Watch B: Sequential vs. Parallel."
 
 **OQ-H3:** If institutional conditions (embedded autonomy, performance requirements) are necessary for industrial policy to work, is "industrial policy" the correct object of the claim, or is the correct object "institutionally-disciplined state-market coordination"? Resolution would require either separating institutional conditions from policy instruments empirically, or reframing the Amsden/Wade claim.
 
