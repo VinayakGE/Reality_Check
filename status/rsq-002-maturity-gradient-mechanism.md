@@ -1,7 +1,7 @@
 # RSQ-002: The Domain-Maturity Gradient — Candidate Mechanism
 
 **Date:** 2026-06-24
-**Last updated:** 2026-06-24 (Stage 5 entry conditions pre-registered before RC-045; Alternative A and B design specifications committed; DAM/institutional-authority correlation formally recorded)
+**Last updated:** 2026-06-24 (Post-RC-045: Alternative A revised from formal-certification to prestige-coordination version; new DAM/prestige-coordination correlation warning; Cycle 8 entry criterion specified before RC-046)
 **Type:** Repository Structure Question — Mechanism Specification
 **Status:** Stage 4B complete; Stage 5 entry conditions specified; mechanism competition not yet started
 
@@ -697,3 +697,96 @@ To close Alternative A's residual interpretation, the ideal domain would have:
 - Genuinely fragmented institutional structure — prestige hierarchy split between competing camps, each publishing in different journals, using different methods, drawing on different disciplinary traditions; no single professional body capable of certifying the causal claim
 
 The fragmented-prestige requirement is what RC-045 did not cleanly satisfy. A domain where the prestige hierarchy is genuinely divided — not merely differently organized than IARC — would more cleanly test whether evidential capacity alone suppresses Watch B without institutional coordination of any form.
+
+---
+
+## Post-RC-045 Update: Alternative A Revision and Cycle 8 Entry Criterion (added 2026-06-24)
+
+This section is committed before RC-046 is selected. Its purpose: freeze the revised state of Alternative A and the Cycle 8 design criterion before a test domain is chosen.
+
+### 1. Alternative A Revision — Formal Certification Wounded; Prestige Coordination Survives
+
+RC-045 forced a specific change in what Alternative A is claiming. These are not the same mechanism:
+
+**Alternative A (original / pre-RC-045):**
+> Formal certification structures (IARC Group 1 classification, GBD comparative risk assessment, WHO formal guidelines) suppress Watch B by providing authoritative institutional endorsement of the causal claim. Without such structures, Watch B persists.
+
+**Alternative A (revised / post-RC-045):**
+> Prestige coordination — the concentration of epistemic authority in a network of elite journals, funding bodies, hiring networks, and citation structures — suppresses Watch B even without formal certification. A research community with high prestige coordination converges on a causal claim and marginalizes skeptical voices regardless of whether a formal body has certified the claim.
+
+**What RC-045 did:** Showed that formal certification is not necessary for Watch B suppression. Returns to education has no IARC equivalent, yet existence-level Theoretical Watch B is absent. The formal-certification version of Alternative A cannot explain this.
+
+**What RC-045 did not do:** Show that prestige coordination is absent in returns to education. Economics has elite journals (AER, QJE, JPE), concentrated citation networks (Card, Angrist, Duflo receive the bulk of citations in the IV literature), elite departments, NBER working paper series, and a relatively coherent hiring network. The prestige-coordination version of Alternative A can explain the RC-045 result: prestige coordination in economics is high, even without a formal WHO-equivalent, and that coordination suppresses Watch B.
+
+**The implication:** Alternative A's change from "formal certification matters" to "prestige coordination matters" is not a retreat to a weaker position. It is a retreat to a position that is simultaneously narrower and harder to test — because prestige coordination is more continuous and harder to operationalize than formal certification. The next test must be designed specifically for prestige coordination, not merely for formal certification absence.
+
+---
+
+### 2. New Correlation Warning — DAM and Prestige Coordination Remain Unseparated
+
+**The unresolved correlation after RC-045:**
+
+| Domain | DAM | Formal Certification | Prestige Coordination | Watch B |
+|---|---|---|---|---|
+| High DAM Cycle 7 domains | High | High | High | Minimal/Methodological |
+| RC-045 Returns to Education | Intermediate-High | Low | High | Methodological (secondary) |
+| Low DAM domains (RC-035, RC-038, RC-042) | Low | Low | Low | Theoretical |
+
+RC-045 separated DAM from formal certification. It did not separate DAM from prestige coordination. In every domain in the repository, DAM and prestige coordination remain correlated:
+- High DAM domains have concentrated prestige (whether through IARC-type bodies or through elite academic networks)
+- Low DAM domains have fragmented or weak prestige structures
+
+**The unresolved question is now:**
+
+Does DAM suppress Watch B (CMech-001)?
+
+Or does prestige coordination suppress Watch B (narrowed Alternative A)?
+
+**What the repository currently knows:** Formal certification alone is insufficient to explain the pattern — RC-045 showed this. What the repository does not yet know: whether DAM-level causal methodology, or the prestige coordination that tends to accompany high methodological development, is doing the explanatory work.
+
+This is a narrower and more specific statement than anything Cycle 7 established. Cycle 7 showed DAM ≠ formal certification at the mechanism level. RC-045 showed formal certification is not necessary. The remaining ambiguity is DAM vs. prestige coordination — which requires a domain where these are not correlated.
+
+---
+
+### 3. Cycle 8 Entry Criterion — Prestige Coordination Must Be Separable
+
+**The Cycle 8 design criterion:**
+
+A valid Cycle 8 audit (starting from RC-046) must satisfy:
+
+1. **Evidential capacity high** (strong natural experiments or experimental evidence; named causal methodology)
+2. **Prestige coordination low or fragmented** — the research community has no concentration of authority in a small number of elite journals, departments, or funding bodies; competing methodological traditions have approximately equal prestige; no single research program dominates citation patterns or hiring for this specific domain
+3. **DAM present at some level** (so it is not simply a repeat of the Low-DAM Cycle 7 cases)
+
+Under this design, CMech-001 and the narrowed Alternative A predict different outcomes:
+
+| Explanation | Prediction |
+|---|---|
+| CMech-001 | Watch B recedes — evidential capacity suppresses existence dispute regardless of prestige coordination |
+| Narrowed Alternative A | Watch B remains active — prestige fragmentation means no coordination mechanism to suppress existence dispute |
+
+**What makes this harder than RC-045:** Prestige coordination is harder to operationalize than formal certification. Formal certification is binary (IARC Group 1: yes/no; GBD comparative risk assessment: yes/no). Prestige coordination is continuous. Pre-registration of the RC-046 domain selection must include an explicit assessment of prestige coordination *before* claim evidence is reviewed — the same discipline that was applied to institutional authority in the RC-045 pre-registration.
+
+**Candidate domain signatures for low prestige coordination:**
+- Competing methodological traditions in different journals that don't cross-cite
+- Researchers from different disciplines (economics, psychology, sociology, medicine) studying the same phenomenon without convergence
+- Multiple systematic reviews reaching contradictory conclusions using the same underlying evidence
+- No clear "consensus statement" from any professional body, and no single research group whose estimates are treated as the reference point
+
+**Candidate domain:** Psychotherapy effectiveness and mental health outcomes. Multiple competing traditions (CBT, psychodynamic, humanistic, third-wave behavioral), competing evidence standards (RCTs vs. effectiveness studies vs. naturalistic data), competing review bodies (NICE guidelines, APA task forces, Cochrane, independent meta-analysts reaching different conclusions), no IARC equivalent, no single prestigious group dominating citations across all traditions. High NEA for specific modalities (waitlist control RCTs, stepped-care RCTs); moderate DAM (manuals and adherence measures exist but no GBD-style attribution). This is a candidate only — pre-registration of maturity score and prestige coordination assessment required before audit.
+
+---
+
+### Stage Map — Updated After RC-045
+
+| Stage | Description | Status |
+|---|---|---|
+| Stage 1 | Audit collection | Complete |
+| Stage 2 | Pattern detection | Complete |
+| Stage 3 | Pattern validation | Complete |
+| Stage 4A | Mechanism discovery | Complete |
+| Stage 4B | Mechanism scope delimitation | Complete |
+| Stage 5 | Mechanism competition — formal certification removed; prestige coordination identified as residual | Active (1 observation) |
+| Stage 6 | Decision utility | Untested |
+
+**Stage 5 current state:** Alternative A has been forced into a narrower and more specific claim. CMech-001 has passed one test. The competition is active but not resolved. Stage 5 continues into Cycle 8, with the revised target: separate DAM from prestige coordination.
