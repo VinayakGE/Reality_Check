@@ -433,3 +433,83 @@ Each question is a refinement of the previous one, not a repetition. The mechani
 2. **High DAM + existence-level resolution + accepted optimum:** A domain that has passed through both Watch B stages (existence resolved, optimum settled) into pure APG would be the first case showing that Theoretical (optimum) Watch B can be resolved — it is not a permanent feature of High DAM domains. This would show the endpoint of the trajectory.
 
 3. **Low DAM + contested optimum:** Would clarify whether Theoretical (optimum) Watch B requires existence-level resolution as a precondition, or whether it can appear directly without the existence-level phase being completed first.
+
+---
+
+## Post-RC-044 Synthesis: Premise vs. Implementation Distinction (added 2026-06-24)
+
+RC-044's key contribution is not that Theoretical (optimum) Watch B survived. It is that it survived explicit DAM engagement. That distinction tightens the mechanism candidate substantially.
+
+### The Operating Scope Boundary
+
+The scope boundary is no longer between "DAM addresses the optimum question" and "DAM does not address the optimum question." RC-044 showed DAM can address the optimum question directly (GBD 2018 TMREL=0 defense with explicit sick-quitter correction). The boundary is between:
+
+**Implementation disputes:** Does DAM's methodology correctly implement the agreed biological premises? (e.g., Did GBD adequately correct for sick-quitter contamination? Is the exposure-response function specified correctly?) These are disputes about whether DAM did its job correctly. DAM transforms these into Methodological Watch B.
+
+**Premise disputes:** Are the biological premises themselves correct? (e.g., Is the HDL-protective mechanism real? Does RAAS activation at low sodium cause cardiovascular harm?) These are disputes about the underlying biology that DAM's methodology takes as inputs. DAM cannot resolve premise disputes by formalizing a position derived from different premises.
+
+This maps directly onto the co-occurrence structure observed in RC-043 and RC-044:
+- Watch B Methodological = implementation dispute (active in both; GBD's methodology contested on its own terms)
+- Watch B Theoretical (optimum) = premise dispute (active in both; biological premises contested independent of methodology)
+
+### Refined CMech-001 Claim
+
+**CMech-001 (original):** As causal-identification capacity increases, Watch B recedes and may change form.
+
+**CMech-001 (revised through RC-042):** NEA and DAM perform different epistemic functions. DAM drives Watch B transformation by formally integrating competing pathways.
+
+**CMech-001 (refined through RC-044 — candidate, two supporting observations for premise/implementation distinction):**
+
+> DAM transforms specific sub-types of Watch B:
+> - DAM resolves Theoretical (existence) Watch B by institutionally encoding causal presence
+> - DAM transforms Theoretical (optimum) Watch B into Methodological Watch B for the subset of researchers whose dispute is about implementation of agreed premises
+> - DAM cannot suppress Theoretical (optimum) Watch B among researchers whose dispute is about the biological premises generating the optimum position
+
+**What this means:** CMech-001 is not a claim that DAM transforms Watch B. It is a claim about which Watch B sub-types DAM can and cannot transform. That is a more precise and more vulnerable claim. It generates cleaner wound conditions and cleaner predictions.
+
+### New Wound Condition: Wound 7
+
+**Wound 7 — DAM suppresses a premise-level dispute:**
+
+A domain where High DAM coexists with an active biological premise dispute over the optimum level, and that premise dispute is resolved — not because researchers accepted DAM's methodology but because the underlying biological claim was settled (e.g., by an RCT, a mechanistic study, or accumulated MR evidence resolving the premise).
+
+This would mean the scope boundary is not stable — that premise disputes can be resolved, and when they are, DAM's formalization of the resulting optimum also resolves the Watch B. This wound condition would not eliminate CMech-001 but would require revising the claim that premise disputes are categorically outside DAM's resolution capacity.
+
+*What would constitute this wound:* A domain currently showing Theoretical (optimum) Watch B under High DAM, where a subsequent RCT or mechanistic study settles the premise dispute (e.g., a long-term alcohol RCT showing no J-curve effect at any consumption level; or a mechanistic study conclusively showing the HDL pathway does not reduce cardiovascular mortality net). The Watch B transformation would then be attributable to premise resolution, with DAM formalizing the result — not to DAM alone.
+
+**Note:** Wound 7 is not a wound to the overall mechanism but to the claim that the premise/implementation boundary is permanent. It would show that premise disputes can cross into implementation disputes once the premise is settled, and that DAM then finalizes the Watch B transformation. This would refine CMech-001 further rather than eliminating it.
+
+### Watch B Type Taxonomy (candidate — not promoted)
+
+| Watch B Type | Core Dispute | DAM Transforms? |
+|---|---|---|
+| Theoretical (existence) | Is the causal pathway real? | Yes — institutional encoding suppresses |
+| Directional | Is the net effect positive or negative? | Partially — Intermediate DAM associated with directional disputes |
+| Methodological | Were agreed premises implemented correctly? | Yes — formalization transforms into quality dispute |
+| Theoretical (optimum) | Are the premises generating the optimum correct? | No — formalization cannot resolve premise disputes |
+
+**Status:** Candidate taxonomy, not promoted. Four Watch B types with two observations each at most. The DAM-Transforms column is the testable component: it generates specific predictions about which domains will show which Watch B types under which DAM scores.
+
+### Object Status After RC-044
+
+| Object | Status |
+|---|---|
+| Maturity Gradient | Stable — confirmed across nine domains in two eras |
+| CMech-001 | Active — narrowed, not abandoned; premise/implementation distinction as operating refinement |
+| NEA/DAM Functional Distinction | Supported — two direct comparison observations (RC-041 vs. RC-042) |
+| Watch B Transformation Hypothesis | Supported — survives through RC-044 with scope refinement |
+| DAM Scope Boundary | Two observations (RC-043, RC-044); explicit engagement test survived |
+| Theoretical (Optimum) Watch B | Candidate sub-type — two instances, near-identical criterion profiles |
+| Mechanism Phase | Scope Delimitation continuing |
+
+### Significance of Narrowing
+
+Cycle 7 has narrowed CMech-001 rather than broadened it. The mechanism candidate now makes fewer claims than it did after RC-040:
+
+- Before Cycle 7: DAM suppresses Watch B
+- After RC-041: DAM transforms Watch B type specifically
+- After RC-042: DAM transforms Watch B; NEA alone does not when multiple competing mechanisms exist
+- After RC-043: DAM suppresses existence-level Theoretical Watch B; optimum-level Theoretical Watch B may persist
+- After RC-044: DAM suppresses existence-level Theoretical Watch B and transforms implementation disputes into Methodological Watch B; DAM cannot suppress premise disputes about the optimum
+
+Each step makes the mechanism claim more specific and therefore more vulnerable. Narrowing is the expected trajectory of a mechanism candidate under sustained pressure. It is a stronger signal than continued broad confirmation would be, because it increases the number of ways the mechanism can fail.
