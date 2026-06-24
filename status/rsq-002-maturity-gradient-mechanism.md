@@ -1,9 +1,9 @@
 # RSQ-002: The Domain-Maturity Gradient — Candidate Mechanism
 
 **Date:** 2026-06-24
-**Last updated:** 2026-06-24 (post-RC-041 assessment added)
+**Last updated:** 2026-06-24 (post-RC-042 assessment added; CMech-001 candidate revision recorded)
 **Type:** Repository Structure Question — Mechanism Specification
-**Status:** Candidate mechanism under development; RC-041 produced first discriminating observation; Watch B Transformation Hypothesis added as candidate refinement (1 instance)
+**Status:** Candidate mechanism in mechanism-decomposition phase; functional distinction between NEA and DAM identified as candidate revision; revised wound conditions pre-registered
 
 This document does for the domain-maturity gradient what RSQ-001 did for promotion logic: takes a confirmed pattern and asks what process generates it. The mechanism is a candidate, not a promoted object. The wound conditions in this document are pre-registered before RC-041 is selected.
 
@@ -202,3 +202,85 @@ The next test: a domain with High NEA and Low DAM. If Watch B remains theoretica
 - **Returns to education:** Compulsory schooling natural experiments (Angrist-Krueger), school construction RDs, Vietnam draft lottery. Econometric methods well-established but not domain-specific named attribution toolkit. DAM = Intermediate (borderline).
 
 Incarceration is the cleanest High NEA + Low DAM candidate. The Watch B in that domain is expected to be theoretical (does marginal incarceration reduce crime or is it criminogenic at current levels?) — which is what the mechanism test requires.
+
+---
+
+## RC-042 Assessment — Criterion-Separation Evidence (added 2026-06-24)
+
+RC-042 (Incarceration/Crime Reduction) produced the result the CMech-001 test needed: theoretical Watch B persisted despite High NEA. The Levitt (1996) prison litigation IV and Italian pardons are among the most celebrated natural experiments in applied econometrics — yet Watch B remained theoretical in character, because the criminogenic-effects mechanism operates over timescales and pathways that the natural experiments do not identify.
+
+**Watch B Type Table (updated through RC-042):**
+
+| Domain | Composite | NEA | DAM | Watch B Character |
+|---|---|---|---|---|
+| RC-035 Industrial Policy | Low | Low | Low | Theoretical |
+| RC-037 Lead-Crime | Intermediate | Intermediate | Low | Theoretical |
+| RC-038 Monetary Policy | Low | Low | Low | Theoretical |
+| RC-040 Minimum Wage | Intermediate | High | Intermediate | Directional |
+| RC-042 Incarceration | Low | High | Low | Theoretical |
+| RC-041 Air Pollution | Intermediate | Intermediate | High | Methodological |
+| RC-036 Climate Attribution | High | High | High | Minimal |
+| RC-039 Vitamin A | High | High | High | Minimal |
+
+The criterion-separation pattern is now visible: Watch B character tracks DAM, not NEA. RC-042 is the direct comparison case — same High NEA as RC-040 (Minimum Wage), but Low DAM instead of Intermediate DAM, and Theoretical Watch B instead of Directional Watch B.
+
+**Key observation:** A natural experiment that identifies one causal pathway does not suppress the theoretical dispute about net effects when a competing pathway is live and unaccounted for. This explains the RC-042 result mechanistically: Levitt's IV identified the incapacitation pathway; it did not identify the criminogenic-effects pathway; therefore the theoretical dispute about net effect remained active.
+
+---
+
+## CMech-001 Candidate Revision — NEA/DAM Functional Distinction (added 2026-06-24)
+
+The accumulated evidence from RC-041 and RC-042 suggests CMech-001 should be revised from a composite-capacity claim to a functional-distinction claim.
+
+**CMech-001 (original):**
+> As causal-identification capacity increases (jointly measured by NEA, DAM, SRC, RD), Watch B recedes and may change form.
+
+**CMech-001 Revised (candidate — 2 observations, pre-compression):**
+> NEA and DAM perform different epistemic jobs that are not interchangeable:
+>
+> - **NEA** answers: *Can the causal pathway from X to Y be identified?* It establishes that a causal mechanism exists and is measurable through some identification strategy. High NEA means the field has natural experiments that isolate at least one causal pathway.
+>
+> - **DAM** answers: *How are multiple competing pathways combined into a net causal attribution?* It provides a formal integration methodology that produces a net effect estimate by accounting for competing mechanisms, adjusting for counterfactual exposure levels, and certifying which pathways count toward the total attribution.
+>
+> Watch B's transformation from Theoretical → Directional → Methodological is driven by DAM, not NEA, because:
+> - Theoretical Watch B is active when competing mechanisms are unaccounted for in any formal attribution framework — regardless of how many natural experiments exist for individual pathways
+> - DAM transforms Watch B by formally integrating competing pathways; the theoretical dispute becomes methodological once the field has agreed on how to combine pathways into a net attribution
+> - NEA alone cannot transform Watch B when multiple competing mechanisms exist, because identifying one pathway says nothing about the net effect of all pathways combined
+
+**Status of the revision:** Candidate. Two observations supporting the functional distinction (RC-041 and RC-042 form a direct comparison: same NEA, different DAM, different Watch B type). Anti-compression constraint: two observations is not a pattern. A third observation would be the Watch B Transformation Hypothesis's second supporting case.
+
+**Post-hoc construction risk:** The functional distinction was formulated after seeing RC-041 and RC-042. It fits the data by design. It needs to generate predictions that the data cannot retro-fit — specifically, it predicts the absence of cases where High DAM co-exists with Theoretical Watch B.
+
+---
+
+## Revised Wound Conditions (as of RC-042)
+
+The original wound conditions (Wound 1–4) remain active. Two new wound conditions are added following the CMech-001 candidate revision:
+
+**Wound 5 — Low DAM + Methodological Watch B:**
+A domain with Low or Intermediate DAM where Watch B is methodological in character (confounding concern, no competing causal theory). This would mean DAM is not necessary for Watch B transformation — something else suppressed theoretical Watch B without a named attribution methodology.
+
+**Wound 6 — High DAM + Theoretical Watch B:**
+A domain with High DAM where Watch B remains theoretical — competing causal mechanisms are active despite a named attribution methodology that should formally integrate them. This is the most direct wound to the revised CMech-001. If IARC-style classification or GBD-style burden methodology coexists with a live theoretical dispute about causal mechanism, then DAM does not drive the transformation as claimed.
+
+**Severity ranking of wounds:**
+- Wound 6 is the most severe — directly contradicts the mechanism's core claim
+- Wound 5 is moderately severe — introduces an alternative driver but doesn't eliminate DAM as a factor
+- Wounds 1–4 remain as originally specified
+
+---
+
+## Phase Characterization — Mechanism Decomposition
+
+After RC-041 and RC-042, RSQ-002 has moved from mechanism-discovery phase to mechanism-decomposition phase. The questions have changed:
+
+| Phase | Question |
+|---|---|
+| Mechanism-discovery (before RC-041) | Does a mechanism exist? What is CMech-001? |
+| Mechanism-decomposition (RC-041 onwards) | Which components of CMech-001 carry the explanatory weight? Are NEA and DAM doing different things? |
+
+This is a more informative frontier than gradient replication. The gradient regularity (Low → Watch B, High → APG) is a confirmed pattern; what the repository is now asking is whether the criteria that predict it are doing different explanatory work. That question is falsifiable at the criterion level rather than only at the composite level.
+
+**Next highest-value test:** A domain where High DAM and Low NEA co-exist — the reverse of RC-042. If such a domain shows Methodological Watch B (as the revised CMech-001 predicts), the functional distinction gains a third supporting observation. If it shows Theoretical Watch B, DAM alone is insufficient without the pathway-identification NEA provides, and the revised CMech-001 requires further revision.
+
+**Candidate:** Epidemiological causal attribution for dietary factors (e.g., saturated fat and cardiovascular disease, or salt and hypertension) — domains where formal burden estimation methods (DAM = High, similar to GBD) exist but natural experiments are scarce and mostly of poor quality (NEA = Low to Intermediate).
