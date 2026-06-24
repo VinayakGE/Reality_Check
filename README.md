@@ -85,6 +85,10 @@ Questions about how the repository organizes knowledge — distinct from Open Qu
 
 The repository appears to apply different promotion logics to different object classes (explanatory objects, epistemic structure objects, observation maps). These logics were not specified in advance. RSQ-001 extracted candidate criteria from prior classification decisions, pre-registered them, and applied them to the Attribution Precision Gap promotion decision. Outcome: Useful + Incomplete. The specification clarified the decision and surfaced two previously unrecognized boundary conditions. Existing repository status labels do not cleanly describe this object. Working promotion criteria specification: [promotion-criteria-working.md](status/promotion-criteria-working.md).
 
+**[RSQ-002 — Domain-Maturity Gradient Mechanism](status/rsq-002-maturity-gradient-mechanism.md)**
+
+The domain-maturity gradient (Low → Watch B; Intermediate/High → APG) has been confirmed across six domains in two eras, including three under independent predictor measurement. The regularity is established; the mechanism is not. RSQ-002 pre-registers CMech-001 (candidate mechanism: causal-identification capacity determines whether Watch B can sustain as an active research frontier) and specifies four wound conditions and four differential predictions that distinguish CMech-001 from the composite-score regularity alone. RC-041 will be selected to test a differential prediction, not to replicate the composite pattern.
+
 ---
 
 ## Open Questions
