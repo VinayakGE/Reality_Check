@@ -62,6 +62,26 @@ Each audit follows the same structure:
 
 ---
 
+## Epistemic Structure Objects
+
+Promoted patterns that describe *why a question cannot be resolved cleanly*, rather than *why an outcome occurred*. These do not compete with explanatory objects. They describe structural limits on evaluation.
+
+**[Attribution Precision Gap](status/attribution-precision-gap.md)**
+
+A recurring bottleneck where outcome is accepted, credited cause is accepted as contributor, but contribution share among concurrent causes cannot be decomposed from available evidence. Distinct from Watch B (which concerns whether the credited cause had any role at all). Three instances across three domains: RC-023 (child survival), RC-028 (community health systems), RC-034 (agricultural development). Boundary incompleteness recorded — intensity threshold and counterfactual unavailability boundaries unspecified.
+
+---
+
+## Repository Structure Questions
+
+Questions about how the repository organizes knowledge — distinct from Open Questions (which concern claims or audit process) and from audits.
+
+**[RSQ-001 — Object Promotion Logic](status/rsq-001-object-promotion-logic.md)**
+
+The repository appears to apply different promotion logics to different object classes (explanatory objects, epistemic structure objects, observation maps). These logics were not specified in advance. RSQ-001 extracted candidate criteria from prior classification decisions, pre-registered them, and applied them to the Attribution Precision Gap promotion decision. Outcome: Useful + Incomplete. The specification clarified the decision and surfaced two previously unrecognized boundary conditions. Existing repository status labels do not cleanly describe this object. Working promotion criteria specification: [promotion-criteria-working.md](status/promotion-criteria-working.md).
+
+---
+
 ## Open Questions
 
 These are questions the audits themselves raised. They are not claims being tracked — they are observations about the auditing process, held open until evidence resolves them.
@@ -99,3 +119,6 @@ Potential wound: A high-visibility claim that is precise, externally testable, a
 - [Currently Unresolvable](status/currently-unresolvable.md)
 - [Not Supported](status/not-supported.md)
 - [Partially Supported](status/partially-supported.md)
+- [Attribution Precision Gap](status/attribution-precision-gap.md)
+- [RSQ-001 — Object Promotion Logic](status/rsq-001-object-promotion-logic.md)
+- [Promotion Criteria — Working Specification](status/promotion-criteria-working.md)
