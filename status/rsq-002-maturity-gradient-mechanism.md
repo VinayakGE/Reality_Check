@@ -1,9 +1,9 @@
 # RSQ-002: The Domain-Maturity Gradient — Candidate Mechanism
 
 **Date:** 2026-06-24
-**Last updated:** 2026-06-24 (post-RC-044 assessment added; discriminant result recorded; Interpretation B supported; RC-043/RC-044 pair as first two-observation pattern for Theoretical optimum under High DAM)
+**Last updated:** 2026-06-24 (Stage 5 entry conditions pre-registered before RC-045; Alternative A and B design specifications committed; DAM/institutional-authority correlation formally recorded)
 **Type:** Repository Structure Question — Mechanism Specification
-**Status:** Candidate mechanism in mechanism scope delimitation phase; Interpretation B supported at two observations; refined scope statement candidate; DAM scope boundary survives explicit engagement test
+**Status:** Stage 4B complete; Stage 5 entry conditions specified; mechanism competition not yet started
 
 This document does for the domain-maturity gradient what RSQ-001 did for promotion logic: takes a confirmed pattern and asks what process generates it. The mechanism is a candidate, not a promoted object. The wound conditions in this document are pre-registered before RC-041 is selected.
 
@@ -513,3 +513,128 @@ Cycle 7 has narrowed CMech-001 rather than broadened it. The mechanism candidate
 - After RC-044: DAM suppresses existence-level Theoretical Watch B and transforms implementation disputes into Methodological Watch B; DAM cannot suppress premise disputes about the optimum
 
 Each step makes the mechanism claim more specific and therefore more vulnerable. Narrowing is the expected trajectory of a mechanism candidate under sustained pressure. It is a stronger signal than continued broad confirmation would be, because it increases the number of ways the mechanism can fail.
+
+---
+
+## Stage 5 Entry Conditions — Pre-Registered Before RC-045 (added 2026-06-24)
+
+This section is committed before RC-045 is selected. Its purpose is the same as the wound conditions and cross-audit predictions: to freeze the entry condition for the next phase before the test case is chosen, preventing retrospective rationalization about whether Stage 5 has been entered.
+
+### Stage Map
+
+| Stage | Description | Status |
+|---|---|---|
+| Stage 1 | Audit collection | Complete |
+| Stage 2 | Pattern detection | Complete |
+| Stage 3 | Pattern validation (two eras, independent measurement) | Complete |
+| Stage 4A | Mechanism discovery — CMech-001 specified | Complete |
+| Stage 4B | Mechanism scope delimitation — premise/implementation boundary identified | Complete (Checkpoint #010) |
+| Stage 5 | Mechanism competition — CMech-001 vs. named alternatives | Entry conditions specified; not started |
+| Stage 6 | Decision utility — methodology improves live decisions | Untested |
+
+### The Stage 4→5 Transition Condition
+
+Stage 5 does not begin with another successful CMech-001 prediction. It begins when:
+
+1. A named mechanism competitor generates a **distinguishable prediction** — an observation where CMech-001 and the alternative predict different outcomes, not the same outcome for different reasons.
+2. An audit is selected **specifically because either mechanism could win** — not because CMech-001's scope can be further refined.
+
+The question changes from:
+
+> What exactly is the mechanism claiming?
+
+to:
+
+> Why this mechanism rather than its competitors?
+
+Cycle 7 (RC-041–RC-044) never crossed this boundary. It kept refining CMech-001's scope. That was productive Stage 4B work. It is not Stage 5 work.
+
+---
+
+### Critical Correlation Warning: DAM and Institutional Authority Have Not Been Separated
+
+**The unresolved problem that blocks Stage 5:** In every audit conducted so far, DAM score and institutional authority have been perfectly correlated.
+
+| Domain | DAM | Institutional Authority |
+|---|---|---|
+| RC-041 Air Pollution | High | High (IARC Group 1, GBD, WHO) |
+| RC-043 Dietary Sodium | High | High (GBD, WHO formal guideline) |
+| RC-044 Alcohol | High | High (GBD, WHO, IARC) |
+| RC-036 Climate Attribution | High | High (IPCC, WWA) |
+| RC-039 Vitamin A | High | High (Cochrane, WHO, UNICEF) |
+| RC-035 Industrial Policy | Low | Low (no WHO equivalent) |
+| RC-038 Monetary Policy | Low | Low (no IARC equivalent) |
+| RC-042 Incarceration | Low | Low (no GBD equivalent) |
+
+CMech-001 claims that evidential capacity (captured by DAM) drives Watch B transformation. Alternative A claims that institutional authority (prestige, gatekeeping, publication infrastructure) drives Watch B transformation. In every case audited, these are the same domains. CMech-001 and Alternative A have coexisted while making identical predictions. They have not competed.
+
+This is not a criticism of any individual audit. It is a structural fact about the repository's current evidence base. The correlation must be broken before the alternatives can be tested.
+
+**The unresolved question is not:** Which mechanism is correct?
+
+**The unresolved question is:** Can the mechanisms be observed separately?
+
+---
+
+### Alternative A Design Specification
+
+**Alternative A (Prestige/Gatekeeping):** Watch B recedes in high-maturity domains not because evidential capacity establishes causal role but because the institutional infrastructure of the domain prevents Watch B claims from being published or taken seriously. The mechanism is social and organizational, not epistemic.
+
+**Discriminating domain design:**
+
+A domain with high evidential capacity (strong natural experiments, named attribution methods, replicated causal direction) but **weak institutional authority** — no IARC-equivalent, no GBD burden line, no WHO guideline certifying the causal claim, consensus maintained by competing research programs without a centralized gatekeeping structure.
+
+| Explanation | Prediction for this domain |
+|---|---|
+| CMech-001 | Watch B recedes — evidential capacity is sufficient |
+| Alternative A | Watch B remains — institutional gatekeeping absent |
+
+**Operational indicators for weak institutional authority:**
+- No single prestigious body has classified the causal claim (no IARC monograph, no GBD comparative risk assessment, no Cochrane meta-analysis as the recognized authority)
+- Consensus is distributed across competing research programs, each with institutional homes, none with veto power over the causal claim
+- Publication in top journals does not require accepting the causal claim — skeptical papers appear alongside affirming papers without gatekeeping
+
+**Candidate domain — Returns to Education:**
+
+The returns-to-education literature has:
+- High NEA: compulsory schooling natural experiments (Angrist-Krueger 1991 quarter-of-birth; Harmon and Walker 1995 UK school-leaving age reform; Duflo 2001 Indonesia school construction), card instruments, Vietnam draft lottery
+- DAM: Standard IV methodology applied consistently; Mincer equation framework is named and taught
+- Replication: extensive, across countries and time periods
+- **But:** No institution analogous to IARC classifies "education causes earnings increases." No GBD equivalent estimates "education-attributable mortality burden." The Mincer-framework consensus is maintained by the labor economics profession without a central gatekeeping authority.
+
+If Watch B is largely absent in returns to education — as preliminary reading suggests — that is difficult to explain on Alternative A's terms: the gatekeeping structures are weak, yet Watch B appears to have receded. If Watch B is active (researchers actively contest whether education causes earnings, rather than how much), Alternative A gains support.
+
+**Status:** Candidate domain identified. Pre-registration of specific Watch B prediction required before audit is run.
+
+---
+
+### Alternative B Design Specification
+
+**Alternative B (Selection into Measurement):** High DAM domains attract research programs that presuppose causal role. Watch B's apparent absence is not evidence that it was resolved — it is evidence that the research program never seriously engaged the existence question. Attribution studies (how much?) dominate; existence studies (does it?) are rare or absent because the program was founded after causal role was assumed.
+
+**The problem with Alternative B:** Unlike Alternative A, it is not primarily a cross-domain discriminating hypothesis. Its claims are about the internal history of individual research programs — whether they were founded to test causal existence or founded after causal existence was assumed. This is rarely visible from a single-claim audit.
+
+**Operational signature:** A domain where:
+- Attribution methodology (DAM) is highly developed
+- Watch B is minimal
+- But the research program history shows that existence was assumed at founding, not demonstrated — the field began measuring magnitudes before settling the causal claim
+
+**Why this is hard to audit cleanly:** The history of a research program's founding assumptions requires historical research rather than a claim audit. A single-claim audit can identify that Watch B is absent and that DAM is high, but it cannot easily determine whether the absence is because Watch B was resolved or because the program design selected against testing it.
+
+**Current status:** Alternative B does not yet have a clean audit design. This is a state description, not a weakness. Recording it as undesigned is the accurate representation. Alternative B remains a named competitor to CMech-001 with a specified claim but without a specified test domain.
+
+**What would constitute an Alternative B test:** A domain audit supplemented by a research-program history analysis — specifically, a search for the founding papers or foundational debates of the domain's attribution methodology, to determine whether causal existence was tested and confirmed before attribution methods were developed, or whether attribution methods were built on an assumed causal claim. This requires a different kind of evidence than a standard claim audit provides.
+
+---
+
+### What Stage 5 Does Not Require
+
+Stage 5 does not require CMech-001 to lose. It requires CMech-001 to be tested against a competitor that could win. The selection criterion for RC-045 is not:
+
+> A domain where CMech-001 predicts the correct object.
+
+It is:
+
+> A domain where Alternative A or Alternative B generates a divergent prediction, and the audit result distinguishes them.
+
+An audit that simply confirms CMech-001 while leaving the alternatives unpressured is another Stage 4B observation. It may be informative about CMech-001's scope but it does not advance toward Stage 5.
