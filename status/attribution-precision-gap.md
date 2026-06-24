@@ -30,6 +30,25 @@ These are different evidential problems, not the same problem at different inten
 
 ---
 
+## Relationship to Watch B: Sequential vs. Parallel
+
+The distinction above specifies what the two objects are. This section specifies how they relate when both are plausible within the same audit.
+
+**The activation condition embedded in the APG definition:** APG requires that "the credited cause is accepted as a genuine contributor." This is not merely a criterion for classification — it is a logical precondition. If causal role is not yet accepted, the contribution-share question cannot be meaningfully posed. Watch B resolves (or remains unresolved) first; APG activates afterward.
+
+**Sequential relationship (same causal question):**
+When Watch B and APG both address the same causal question — "Did cause X contribute, and if so, how much?" — they are logically sequential, not parallel. Watch B must be provisionally resolved in favor of accepted causal role before APG can become the operative bottleneck. RC-035 (East Asian industrial policy) surfaced this structure: the debate centered on whether industrial policy had any independent causal role at all (Watch B), with contribution-share decomposition (APG) present as a conditional sub-question that depends on Watch B resolution.
+
+**Parallel relationship (different causal questions):**
+When Watch B and APG address different components of the same claim, they can be parallel. RC-023 and RC-028 show this: Watch B applies to one aspect of the attribution question while APG applies to a different aspect simultaneously. The two objects are not in a dependency relationship when they address distinct causal questions within the claim.
+
+**What this means for classification:**
+The unit of analysis is the causal question, not the claim. A single claim can contain multiple causal questions, each of which may independently be Watch B or APG. When those questions are about the same cause, the objects are sequential. When about different causes or different aspects of attribution, they can be parallel.
+
+This relationship was made visible by RC-035 but is entailed by the definitions, not discovered empirically. It resolves OQ-Regional from the RC-035 audit.
+
+---
+
 ## Instances
 
 | Instance | Domain | Bottleneck level | Structure |
