@@ -638,3 +638,62 @@ It is:
 > A domain where Alternative A or Alternative B generates a divergent prediction, and the audit result distinguishes them.
 
 An audit that simply confirms CMech-001 while leaving the alternatives unpressured is another Stage 4B observation. It may be informative about CMech-001's scope but it does not advance toward Stage 5.
+
+---
+
+## RC-045 Assessment — First Stage 5 Result (added 2026-06-24)
+
+RC-045 (Returns to Education) was the first audit selected specifically because a named competitor (Alternative A) generated a distinguishable prediction before evidence was reviewed.
+
+**Pre-registration predictions:**
+- Maturity Gradient + CMech-001: APG primary, Watch B minimal (evidential capacity sufficient even without centralized institutional authority)
+- Alternative A: Watch B materially active (institutional gatekeeping absent in economics)
+
+**Result:** APG primary, Watch B minimal. Watch B present only in Methodological form (LATE external validity concerns; contribution-share debates between human capital and signaling are APG-structured, not Theoretical Watch B).
+
+**Existence-level Theoretical Watch B:** Largely absent. The signaling debate (Spence 1973, Caplan 2018) disputes the mechanism behind the education-earnings relationship, not its existence. Signaling models still predict that education causes earnings increases — through credentialing, not skill acquisition. No mainstream research program argues that education does not cause earnings to increase.
+
+**CMech-001 verdict: Cleared first Stage 5 test.** Evidential capacity (rich IV literature, named Mincer methodology, 10+ natural experiments, extensive cross-national replication) appears sufficient to suppress existence-level Theoretical Watch B even in the absence of an IARC/WHO/GBD-equivalent institutional structure.
+
+**Alternative A verdict: Pressured, not eliminated.** The prediction (Watch B materially active) did not materialize. Watch B is Methodological, not Theoretical. The pre-registration specified that Alternative A support requires Watch B "plausibly sustained by absence of institutional authority" — that criterion was not met.
+
+**Alternative A's residual interpretation:** The economics profession's prestige hierarchy (top journals: AER, QJE, JPE; NBER; elite department affiliation) may function as a *de facto* gatekeeping mechanism even without a formal IARC-equivalent. On this reading, RC-045 tested Alternative A in a domain with a *different* institutional structure than IARC/GBD, but not necessarily a *weaker* one. Alternative A retains this interpretive path but must now carry an empirical burden: the economics prestige hierarchy would need to function as effectively as IARC Group 1 classification at suppressing Watch B, despite its different organizational form.
+
+### Watch B Type Table — Updated Through RC-045
+
+| Domain | Composite | NEA | DAM | Watch B Character |
+|---|---|---|---|---|
+| RC-035 Industrial Policy | Low | Low | Low | Theoretical (existence) |
+| RC-037 Lead-Crime | Intermediate | Intermediate | Low | Theoretical (existence) |
+| RC-038 Monetary Policy | Low | Low | Low | Theoretical (existence) |
+| RC-040 Minimum Wage | Intermediate | High | Intermediate | Directional |
+| RC-042 Incarceration | Low | High | Low | Theoretical (existence) |
+| RC-041 Air Pollution | Intermediate | Intermediate | High | Methodological |
+| RC-043 Dietary Sodium | Intermediate | Intermediate (lean Low) | High | Theoretical (optimum) + Methodological |
+| RC-044 Alcohol | Intermediate | Intermediate (lean Low) | High | Theoretical (optimum) + Methodological |
+| RC-045 Returns to Education | High | High | Intermediate-High | Methodological (secondary) |
+| RC-036 Climate Attribution | High | High | High | Minimal |
+| RC-039 Vitamin A | High | High | High | Minimal |
+
+RC-045 is the first High-composite domain without fully centralized institutional authority. Watch B is Methodological rather than Minimal — slightly stronger than RC-036 and RC-039. This may reflect DAM being Intermediate-High rather than unambiguously High.
+
+### Stage 5 Status After RC-045
+
+| Stage 5 Requirement | Status |
+|---|---|
+| First audit with divergent mechanism predictions | Satisfied (RC-045) |
+| CMech-001 cleared first test | Yes |
+| Alternative A eliminated | No — residual interpretation via economics prestige hierarchy |
+| Alternative B tested | No — design specification still unresolved |
+| Stage 5 complete | No — one passing test is not validation; residual interpretation remains open |
+
+**Anti-compression:** One Stage 5 test passing does not validate CMech-001. The gap between "cleared first Stage 5 test" and "mechanism validated against alternatives" remains substantial.
+
+### Next Highest-Value Candidate for RC-046
+
+To close Alternative A's residual interpretation, the ideal domain would have:
+- High evidential capacity (strong natural experiments or experimental evidence)
+- Named methodological framework (some DAM)
+- Genuinely fragmented institutional structure — prestige hierarchy split between competing camps, each publishing in different journals, using different methods, drawing on different disciplinary traditions; no single professional body capable of certifying the causal claim
+
+The fragmented-prestige requirement is what RC-045 did not cleanly satisfy. A domain where the prestige hierarchy is genuinely divided — not merely differently organized than IARC — would more cleanly test whether evidential capacity alone suppresses Watch B without institutional coordination of any form.
