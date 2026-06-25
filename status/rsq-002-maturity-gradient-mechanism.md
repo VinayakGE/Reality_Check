@@ -870,3 +870,47 @@ What would constitute disconfirmation: a Low PC + Intermediate DAM domain where 
 | Stage 6 | Decision utility | Untested |
 
 **Stage 5 current state:** Alternative A has been forced into a narrower and more specific claim. CMech-001 has passed one test. The competition is active but not resolved. Stage 5 continues into Cycle 8, with the revised target: separate DAM from prestige coordination.
+
+---
+
+## CMech-001 as a Compound Hypothesis (added 2026-06-25)
+
+CMech-001 is not a single proposition. It is a structured hypothesis with three independently testable components at different observational levels. Future results should be interpreted against this decomposition rather than as binary wins or losses for CMech-001 as a whole.
+
+| Component | Claim | Primary observation type | Primary challenger |
+|---|---|---|---|
+| Cross-sectional | High DAM is associated with reduced existence-level Watch B | Current-state audit | Alternative A (prestige coordination explains the same correlation) |
+| Prospective | The DAM–Watch B relationship predicts the epistemic structure of new domains before evidence review | Prospective prediction | Alternative A (prestige coordination predicts the same domains' Watch B character) |
+| Historical | DAM introduction historically preceded Watch B transformation | Sequence analysis | Alternative B (strong initial evidence generated both DAM development and Watch B suppression independently; DAM did not cause the transformation) |
+
+**Implication for result interpretation:**
+
+A Track 1 result (discriminating audit comparing CMech-001 to Alternative A) updates the cross-sectional and prospective components. It does not address the historical component. A Track 2 result (historical sequence analysis) updates the historical component. It does not address which of CMech-001 or Alternative A better explains the cross-sectional and prospective components. A Stage 6 result (practical utility) updates neither mechanism-competition component — it bears on a different question.
+
+The correct question after any new observation is therefore not "did CMech-001 survive?" but "which component of CMech-001 was actually updated by this observation, and which components remain at their prior evidential state?"
+
+**Current component status:**
+
+| Component | Status | Primary evidence |
+|---|---|---|
+| Cross-sectional | Supported — 5+ observations across Repository domains | RC-041, RC-043, RC-044, RC-045, RC-046 |
+| Prospective | Supported — pre-registered predictions confirmed under independent operationalization | RC-038 through RC-046 cross-audit prediction sequence |
+| Historical | Untested — no sequence analysis taken; Track 2 architecture now committed | track-2-experimental-architecture.md specifies first investigation |
+
+---
+
+## Repository Developmental Regularity — Candidate (added 2026-06-25)
+
+**Observed pattern:** When the repository encounters a methodological limitation — a question that the existing observational instrument cannot answer — it has responded by identifying the limitation explicitly, specifying why the existing instrument is insufficient, developing a more appropriate observational instrument, and only then resuming empirical work.
+
+**Observed instances:**
+1. Promotion criteria: implicit → explicit RSQ-001 before further pattern promotion
+2. Maturity operationalization: retrospective → prospective OQ-Maturity before Stage 3 testing
+3. Prestige coordination: bundled with DAM → independently operationalized before RC-046
+4. Track 2: no observational instrument → sequence-analysis architecture committed before first investigation
+
+**Epistemic status:** Candidate regularity. Observed repeatedly across four methodological transitions. Not an architectural guarantee of the methodology.
+
+This is the same status as early-stage Watch B observations before promotion: an empirical summary of history, not an invariant property of the system. If a future cycle encounters a methodological limitation and responds by stretching an existing instrument beyond its appropriate scope rather than developing a new one, this candidate regularity would be wounded. The repository is not exempt from its own anti-overstatement discipline when describing its own behavior.
+
+Anti-compression applies: four observations supports a candidate; promotion to a standing methodological principle requires assessment against the same standard applied to object-level patterns.
