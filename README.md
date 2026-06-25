@@ -122,3 +122,15 @@ Potential wound: A high-visibility claim that is precise, externally testable, a
 - [Attribution Precision Gap](status/attribution-precision-gap.md)
 - [RSQ-001 — Object Promotion Logic](status/rsq-001-object-promotion-logic.md)
 - [Promotion Criteria — Working Specification](status/promotion-criteria-working.md)
+
+---
+
+## Commercial Delivery Assets
+
+- [Commercial Delivery System](status/commercial-delivery-system.md)
+- [Landing Page Copy](commercial/landing-page-copy.md)
+- [Pilot Offer (One Pager)](commercial/pilot-offer-one-pager.md)
+- [Sales Deck Outline (12 Slides)](commercial/sales-deck-12-slide-outline.md)
+- [Decision Health Dashboard Template](templates/decision-health-dashboard.md)
+- [Decision Drift Report Template](templates/decision-drift-report.md)
+- [Decision Review Memo Template](templates/decision-review-memo.md)

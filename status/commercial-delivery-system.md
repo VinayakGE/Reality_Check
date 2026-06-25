@@ -1,20 +1,59 @@
-# Commercial Delivery System — Decision Review Cycle
+# Commercial Delivery System — Service-First Build Sequence
 
 **Status:** Working commercial specification  
 **Date:** 2026-06-25  
-**Product category (external):** Decision Review Cycle  
+**Company / Methodology:** Reality Check  
+**Platform:** Decision Ledger  
 **Core capability:** Decision Drift Detection  
-**Methodology placement:** Reality Check as internal engine, not external category language.
+**Service:** Decision Review Cycle
 
 ---
 
 ## Positioning
 
-The commercial wedge is decision governance over time, not research-quality tooling.
+The commercial wedge is decision governance and institutional memory over time, not research-quality tooling.
 
 Primary customer promise:
 
-> We protect important strategic decisions from silent drift by tracking assumptions, evidence changes, and review triggers.
+> Reality Check helps organizations preserve, audit, and continuously update the reasoning behind their most important decisions.
+
+Operational promise:
+
+> We protect strategic decisions from silent drift by tracking assumptions, evidence changes, and review triggers.
+
+---
+
+## Implementation Order (Approved Sequence)
+
+### Sprint 1 — Customer-facing assets
+1. Landing page  
+2. One-page pilot offer  
+3. Board-ready output templates  
+   - Decision Health Dashboard  
+   - Decision Drift Report  
+   - Decision Review Memo  
+4. Sales deck (10–12 slides)
+
+**Reason:** pricing and messaging cannot be tested without these assets.
+
+### Sprint 2 — Operational assets
+1. Pilot playbook  
+2. Internal review workflow  
+3. Client onboarding checklist  
+4. Weekly review cadence  
+5. Success metrics dashboard
+
+**Reason:** this enables consistent pilot delivery.
+
+### Sprint 3 — Product specification
+1. SaaS information architecture  
+2. Database schema  
+3. User roles  
+4. Workflow screens  
+5. Decision Ledger specification  
+6. Decision Drift Detection engine specification
+
+**Reason:** software follows manual delivery proof.
 
 ---
 
@@ -100,4 +139,3 @@ Pilot promise:
 - # decisions shifted to Review/Critical
 - Mean time from drift signal to formal review
 - % board-priority decisions with active review triggers
-
